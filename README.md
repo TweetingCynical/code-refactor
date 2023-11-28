@@ -22,6 +22,7 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
+```
 Your website must meet accessibility standards. You can achieve this completing the following:
 
 - Semantic HTML elements can be found throughout the source code
@@ -29,6 +30,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 - Image and icon elements contain accessible `alt` attributes
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
+```
 
 ### Overview of Code Changes
 
